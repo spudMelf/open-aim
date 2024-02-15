@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "http://spudmelf.github.io/open-aim/",
+    "homepage": "https://spudmelf.github.io/open-aim/",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
